@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos_nodejs",
+  "version": "1.0.0",
+  "description": "Uso basico de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio Selfene <m.selfene@gmail.com>",
+  "license": "MIT"
+}
